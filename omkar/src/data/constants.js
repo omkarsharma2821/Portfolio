@@ -230,7 +230,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 0,
+    id: 9,
     title: "VintiMart",
     date: "Nov 2023 - Dec 2023",
     description:
