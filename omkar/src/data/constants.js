@@ -71,7 +71,7 @@ export const skills = [
     ],
   },
   {
-    title: "Software",
+    title: "Softwares",
     skills: [
       {
         name: "Mendeley",
@@ -205,7 +205,7 @@ export const education = [
     school: "Babu Banarasi Das Institute of Technology and Management, Lucknow",
     date: "Aug 2020 - July 2024",
     grade: "8.34 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Babu Banarasi Das Institute of Technology and Management, Lucknow. I have completed 6 semesters and have a CGPA of 8.34. Curently I am Technical Head of Technovibes BBDITM and an EX-Web master of the IEEE Computer Society at IEEE BBDITM (2022).",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Babu Banarasi Das Institute of Technology and Management, Lucknow. I have completed 6 semesters and Curently I am Technical Head of Technovibes BBDITM and an was Web master of the IEEE Computer Society at IEEE BBDITM (2022).",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering"
   },
   {
@@ -283,7 +283,7 @@ export const projects = [
     title: "PG Life",
     date: "2022",
     description:
-      "Designed and developed user friendly PG managing website helpful in finding the nearest PG and Rooms for students. The plan is to add all the affordable rooms and flat to help students.",
+      "Designed and developed user friendly PG management website helpful in finding the nearest PG and Rooms for students. The plan is to add all the affordable rooms and flat to help students.",
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
