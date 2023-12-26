@@ -236,7 +236,7 @@ export const projects = [
     description:
       "It is for furniture lovers seeking to add a touch of elegance to their homes without breaking the bank.It extends a helping hand to those seeking to furnish their homes with dignity and grace also empowers both the furniture donor and the recipient, fostering a spirit of community and shared purpose.",
     image:
-      "https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20194816.png",
+      "https://github.com/omkarsharma2821/Portfolio/blob/main/screenshot/Screenshot%202023-12-14%20194816.png",
     tags: [
       "React Js",
       "Node Js",
@@ -258,7 +258,7 @@ export const projects = [
     description:
       "Web Based Solution to identify and solve disease in plants/crops–Smart India Hackathon 2023. Provides tailored treatment plans and proactive measures to combat plant disease. Designed for urban farmers, farmers and amateur gardener to protect their crops/plants and boost production",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://github.com/omkarsharma2821/Portfolio/blob/main/screenshot/Screenshot%202023-12-26%20085324.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Nodemailer","Socket.io","JsonWebToken","Vite","Material UI","AI","TensorFLow"],
     category: "website",
     github: "https://github.com/rasheeq123/Green-Doctor",
