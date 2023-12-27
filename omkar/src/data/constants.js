@@ -195,7 +195,21 @@ export const experiences = [
     role: "Research",
     company: "ICAETC 2023",
     date: "Present",
-    desc: "MobileNet-v3 : A Comprehensive Survey of Object Detection Algorithms Using CNN. International Conference on Advances in Emerging Trends in Computer Applications (ICAETC-2023). For my Major Project I with my teammate wrote this Review Paper and used it in the detection identification of disease in Plants/Crops.",
+    desc: "MobileNet-v3 : A Comprehensive Survey of Object Detection Algorithms Using CNN. International Conference on Advances in Emerging Trends in Computer Applications (ICAETC-2023). For my Major Project I with my teammate wrote this Review Paper and used it's result in the detection identification of disease in Plants/Crops(Final Year Project).",
+    member: [
+      {
+        name: "Omkar Sharma",
+        img: "https://avatars.githubusercontent.com/u/104587783?s=96&v=4",
+        linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
+        github: "https://github.com/omkarsharma2821/",
+      },
+      {
+        name: "Rasheeq Zehra",
+        img: "https://avatars.githubusercontent.com/u/108568853?v=4",
+        linkedin: "https://www.linkedin.com/in/rasheeq-zehra-mern-developer/",
+        github: "https://github.com/rasheeq123",
+      },
+    ],
     // doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   }
 ];
@@ -216,7 +230,7 @@ export const education = [
     school: "Girish Prasad Memorial College, Bareilly",
     date: "Apr 2017 - Apr 2019",
     grade: "81.5%",
-    desc: "I have completed my class 12th education from Girish Prasad Memorial College, Bareilly, where I studied PCM with Computer Science.",
+    desc: "I completed my Class 12th education at Girish Prasad Memorial College, Bareilly. During my studies there, I studied the PCM stream with Computer Science as an elective subject.",
     degree: "ISC(XII), PCM with Computer",
   },
   {
@@ -225,7 +239,7 @@ export const education = [
     school: "St Mary's Convent School, Bareilly",
     date: "Apr 2017",
     grade: "72.8%",
-    desc: "I have completed my class 10th education from St Mary's Convent School, Bareilly, where I studied Science with Computer Application.",
+    desc: "I completed my Class 10th education at St Mary's Convent School, Bareilly. During my studies there, I undertook the PCM stream with Computer Science.",
     degree: "ICSC(X)",
   },
 ];
