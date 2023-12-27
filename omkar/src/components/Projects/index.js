@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. Here are some of my projects.
+        Throughout my learning journey, I have had the opportunity to work on a diverse range of projects. I am pleased to present some of these projects for your consideration.
         </Desc>
         <CardContainer>
           {toggle === 'all' && projects

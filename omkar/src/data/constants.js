@@ -6,7 +6,7 @@ export const Bio = {
     "Coder",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "Driven by a passion for learning and a commitment to excellence, I thrive in environments that present new challenges for growth. My adaptable skills and unwavering dedication, drive me to deliver high-quality results. I am confident that my adaptable skillset and growth mindset will enable me to achieve great things.",
   github: "https://github.com/omkarsharma2821",
   resume:
     "https://drive.google.com/file/d/1I-Rac9iAjfpddEX5RGbcABXv-ZRw6LGn/view?usp=sharing",
@@ -303,7 +303,7 @@ export const projects = [
   {
     id: 5,
     title: "Movie Review",
-    date: "Jun 2021",
+    date: "June 2021",
     description:
       "A simple website that shows the rating of the famous movies and allow viewers to rate the movies on basis of their likes and dislikes. The site also has a search bar to search for a particular movie.",
     image:
@@ -327,10 +327,10 @@ export const projects = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
