@@ -13,7 +13,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
   twitter: "https://twitter.com/omiipandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
-  facebook: "https://www.facebook.com/omkarsharma/",
+  git: "https://github.com/omkarsharma2821/",
 };
 
 export const skills = [
