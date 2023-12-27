@@ -230,7 +230,7 @@ export const education = [
     school: "Girish Prasad Memorial College, Bareilly",
     date: "Apr 2017 - Apr 2019",
     grade: "81.5%",
-    desc: "I completed my Class 12th education at Girish Prasad Memorial College, Bareilly. During my studies there, I studied the PCM stream with Computer Science as an elective subject.",
+    desc: "I completed my Class 12th education at Girish Prasad Memorial College, Bareilly. During my studies there, I studied the PCM stream and picked Computer Science from elective subject.",
     degree: "ISC(XII), PCM with Computer",
   },
   {
