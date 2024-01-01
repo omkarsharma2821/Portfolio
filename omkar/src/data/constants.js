@@ -154,7 +154,11 @@ export const experiences = [
       "JavaScript",
       "Material UI",
       "Postman",
-      "SEO"
+      "SEO",
+      "Netlify",
+      "Render",
+      "Git",
+      "GitHub"
     ],
     // doc:""
   },
@@ -163,7 +167,7 @@ export const experiences = [
     img: "https://prutor.ai/wp-content/uploads/prutor-footer-logo-dark-blu.png",
     role: "Full Stack Intern",
     company: "Robustresults Pvt ltd, IITK",
-    date: "Oct 2021 – Nov 2021",
+    date: "Oct 2021–Nov 2021",
     desc: "Leveraged my full-stack developer skills in HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL during a 6-week internship at Robustresults Pvt. Ltd., an IITK incubated company.",
     skills: [
       "HTML",
@@ -184,8 +188,8 @@ export const experiences = [
     skills: [
       "HTML",
       "CSS",
+      "Bootstrap",
       "JavaScript",
-      "MongoDB",
     ],
     // doc: "https://drive.google.com/file/d/1iius6V9HRWfHU6lNNbxnc6b23vRrA_rb/view?usp=sharing",
   },
@@ -196,6 +200,12 @@ export const experiences = [
     company: "ICAETC 2023",
     date: "Present",
     desc: "MobileNet-v3 : A Comprehensive Survey of Object Detection Algorithms Using CNN. International Conference on Advances in Emerging Trends in Computer Applications (ICAETC-2023). For my Major Project I with my teammate wrote this Review Paper and used it's result in the detection identification of disease in Plants/Crops(Final Year Project).",
+    skills: [
+      "Mendeley",
+      "Google Scholar",
+      "Plagiarism Checker & Remover Tools",
+      "Referencing Softwares"
+    ],
     member: [
       {
         name: "Omkar Sharma",
@@ -252,7 +262,7 @@ export const projects = [
     description:
       "It is for furniture lovers seeking to add a touch of elegance to their homes without breaking the bank.It extends a helping hand to those seeking to furnish their homes with dignity and grace also empowers both the furniture donor and the recipient, fostering a spirit of community and shared purpose.",
     image:
-      "https://drive.google.com/file/d/1xEdOfLGHa3AKHMy_Ojc9x5yQ-_C-1kzB/view?usp=sharing",
+      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202023-12-14%20194816.png",
     tags: [
       "React Js",
       "Node Js",
@@ -274,7 +284,7 @@ export const projects = [
     description:
       "Web Based Solution to identify and solve disease in plants/crops–Smart India Hackathon 2023. Provides tailored treatment plans and proactive measures to combat plant disease. Designed for urban farmers, farmers and amateur gardener to protect their crops/plants and boost production.",
     image:
-      "https://drive.google.com/file/d/1sBQD-hlrrc9aH8BMoMp9Oycav0APxIoH/view?usp=sharing",
+      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202023-12-26%20085324.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Nodemailer","Socket.io","JsonWebToken","Vite","Material UI","AI","TensorFLow"],
     category: "website",
     github: "https://github.com/rasheeq123/Green-Doctor",
