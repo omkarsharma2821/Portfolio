@@ -316,6 +316,7 @@ export const projects = [
       "HTML",
       "CSS",
       "Bootstrap",
+      "React",
       "JavaScript",
     ],
     category: "website",
@@ -339,10 +340,10 @@ export const projects = [
     id: 6,
     title: "Todo List",
     description:
-      "A Todo List made with React JS and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "A Todo List made with React JS and Bootstrap. It has a login page where users can log in with Registered account. It has a Text-box where users can set their tasks and can Delete them after completing the task.",
     image:
       "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202024-01-01%20122050.png",
-    tags: ["React Js", "MongoDB", "User Auth", "Node JS"],
+    tags: ["React Js", "MongoDB", "User Auth", "Bootstrap", "CSS", "HTML"],
     category: "webpage",
     github: "https://github.com/omkarsharma2821/React/",
     webapp: "https://github.com/omkarsharma2821/React/",
