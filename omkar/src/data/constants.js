@@ -203,7 +203,7 @@ export const experiences = [
     skills: [
       "Mendeley",
       "Google Scholar",
-      "Plagiarism Checker & Remover Tools",
+      "Turnitin",
       "Referencing Softwares"
     ],
     member: [
@@ -271,7 +271,7 @@ export const projects = [
       "JavaScript",
       "Material UI",
       "Postman",
-      "Hosting"
+      "Render",
     ],
     category: "website",
     github: "https://github.com/omkarsharma2821/VintiMart",
@@ -285,7 +285,7 @@ export const projects = [
       "Web Based Solution to identify and solve disease in plants/crops–Smart India Hackathon 2023. Provides tailored treatment plans and proactive measures to combat plant disease. Designed for urban farmers, farmers and amateur gardener to protect their crops/plants and boost production.",
     image:
       "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202023-12-26%20085324.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Nodemailer","Socket.io","JsonWebToken","Vite","Material UI","AI","TensorFLow"],
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Nodemailer","Socket.io","JsonWebToken","Vite","Material UI","AI","TensorFLow", "Teachable Machine"],
     category: "website",
     github: "https://github.com/rasheeq123/Green-Doctor",
     webapp: "https://github.com/rasheeq123/Green-Doctor",
@@ -313,12 +313,10 @@ export const projects = [
     image:
       "https://drive.google.com/file/d/1iius6V9HRWfHU6lNNbxnc6b23vRrA_rb/view?usp=sharing",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
     ],
     category: "website",
     github: "https://github.com/omkarsharma2821/PGLife",
