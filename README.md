@@ -14,7 +14,7 @@
 
 
 ### :camera: Snapshot
-<div align="center"> <a href="https://vintimart-9x78.onrender.com/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20194816.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://portfolio-weut.onrender.com/"><img src=https://github.com/omkarsharma2821/Portfolio/blob/main/screenshot/Screenshot%202023-12-28%20150322.png></a> </div>
 
 ### :dart: Features
 
