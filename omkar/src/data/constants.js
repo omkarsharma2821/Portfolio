@@ -311,7 +311,7 @@ export const projects = [
     description:
       "Designed and developed user friendly PG management website helpful in finding the nearest PG and Rooms for students. The plan is to add all the affordable rooms and flat to help students.",
     image:
-      "https://drive.google.com/file/d/1iius6V9HRWfHU6lNNbxnc6b23vRrA_rb/view?usp=sharing",
+      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202024-01-01%20120410.png",
     tags: [
       "HTML",
       "CSS",
