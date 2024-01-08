@@ -284,11 +284,11 @@ export const projects = [
     description:
       "Web Based Solution to identify and solve disease in plants/crops–Smart India Hackathon 2023. Provides tailored treatment plans and proactive measures to combat plant disease. Designed for urban farmers, farmers and amateur gardener to protect their crops/plants and boost production.",
     image:
-      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202023-12-26%20085324.png",
+    "https://raw.githubusercontent.com/omkarsharma2821/Green-Doctor/main/screenshot/Screenshot%202024-01-08%20173018.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Nodemailer","Socket.io","JsonWebToken","Vite","Material UI","AI","TensorFLow", "Teachable Machine"],
     category: "website",
-    github: "https://github.com/rasheeq123/Green-Doctor",
-    webapp: "https://github.com/rasheeq123/Green-Doctor",
+    github: "https://github.com/omkarsharma2821/Green-Doctor",
+    webapp: "https://github.com/omkarsharma2821/Green-Doctor",
     member: [
       {
         name: "Omkar Sharma",
