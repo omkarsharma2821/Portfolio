@@ -10,7 +10,7 @@
 - [Landing Page]
 - [Run Locally]
 - [How to clone]
-- [Contact]
+- [Contact] 
 
 
 ### :camera: Snapshot
