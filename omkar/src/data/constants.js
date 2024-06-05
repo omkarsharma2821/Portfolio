@@ -284,7 +284,7 @@ export const projects = [
     description:
       "Web Based Solution to identify and solve disease in plants/crops–Smart India Hackathon 2023. Provides tailored treatment plans and proactive measures to combat plant disease. Designed for urban farmers, farmers and amateur gardener to protect their crops/plants and boost production.",
     image:
-    "https://raw.githubusercontent.com/omkarsharma2821/Green-Doctor/main/screenshot/Screenshot%202024-01-08%20173018.png",
+    "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202024-06-05%20150144.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Nodemailer","Socket.io","JsonWebToken","Vite","Material UI","AI","TensorFLow", "Teachable Machine"],
     category: "website",
     github: "https://github.com/omkarsharma2821/Green-Doctor",
@@ -330,7 +330,7 @@ export const projects = [
     description:
       "A simple website that shows the rating of the famous movies and allow viewers to rate the movies on basis of their likes and dislikes. The site also has a search bar to search for a particular movie.",
     image:
-      "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
+      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202024-01-01%20120410.png",
     tags: ["React Js", "API", "Axios", "Node JS"],
     category: "website",
     github: "https://github.com/omkarsharma2821/fullstack-movie-project",
