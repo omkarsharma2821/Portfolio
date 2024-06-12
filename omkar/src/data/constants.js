@@ -288,7 +288,7 @@ export const projects = [
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Nodemailer","Socket.io","JsonWebToken","Vite","Material UI","AI","TensorFLow", "Teachable Machine"],
     category: "website",
     github: "https://github.com/omkarsharma2821/Green-Doctor",
-    webapp: "https://github.com/omkarsharma2821/Green-Doctor",
+    webapp: "https://green-doctor.onrender.com/main/home",
     member: [
       {
         name: "Omkar Sharma",
