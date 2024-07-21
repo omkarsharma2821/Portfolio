@@ -9,7 +9,7 @@ export const Bio = {
     "Driven by a passion for learning and a commitment to excellence, I thrive in environments that present new challenges for growth. My adaptable skills and unwavering dedication, drive me to deliver high-quality results. I am confident that my adaptable skillset and growth mindset will enable me to achieve great things.",
   github: "https://github.com/omkarsharma2821",
   resume:
-    "https://drive.google.com/file/d/1AJB1dFWwoYlkTcGD1TavuPaxbdGft1y6/view?usp=sharing",
+    "https://drive.google.com/file/d/1Kbypme-jN3D8rq_MjVtnAmKPGTeZ7Dfp/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
   twitter: "https://twitter.com/omiipandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
