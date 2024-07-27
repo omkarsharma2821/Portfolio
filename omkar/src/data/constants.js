@@ -1,9 +1,9 @@
 export const Bio = {
   name: "Omkar Sharma",
   roles: [
+    "MERN Stack Developer",
+    "Problem Solver",
     "Full Stack Developer",
-    // "Graphic Designer",
-    "Coder",
   ],
   description:
     "Driven by a passion for learning and a commitment to excellence, I thrive in environments that present new challenges for growth. My adaptable skills and unwavering dedication, drive me to deliver high-quality results. I am confident that my adaptable skillset and growth mindset will enable me to achieve great things.",
