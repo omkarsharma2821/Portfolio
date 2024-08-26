@@ -1,15 +1,16 @@
 export const Bio = {
   name: "Omkar Sharma",
   roles: [
-    "MERN Stack Developer",
+    "Software Developer",
     "Problem Solver",
-    "Full Stack Developer",
+    "MERN Stack Developer",
+    // "Full Stack Developer",
   ],
   description:
     "Driven by a passion for learning and a commitment to excellence, I thrive in environments that present new challenges for growth. My adaptable skills and unwavering dedication, drive me to deliver high-quality results. I am confident that my adaptable skillset and growth mindset will enable me to achieve great things.",
   github: "https://github.com/omkarsharma2821",
   resume:
-    "https://drive.google.com/file/d/1Kbypme-jN3D8rq_MjVtnAmKPGTeZ7Dfp/view?usp=sharing",
+    "https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
   twitter: "https://twitter.com/omiipandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
@@ -68,6 +69,11 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
+      {
+        name: "MySQL",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      },
     ],
   },
   {
@@ -81,7 +87,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
       },
       {
         name: "Canva",
@@ -104,9 +110,14 @@ export const skills = [
     title: "Others",
     skills: [
       {
+        name: "C++",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg",
+    },
+      {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg",
       },
       {
         name: "GitHub",
@@ -116,7 +127,7 @@ export const skills = [
       {
         name: "Render",
         image:
-          "https://img.shields.io/badge/-white?style=for-the-badge&logo=render&logoColor"
+          "https://img.shields.io/badge/-black?style=for-the-badge&logo=render&logoColor"
       },
       {
         name: "Netlify",
@@ -128,11 +139,15 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
       },
-      
+      // {
+      //   name: "XML",
+      //   image:
+      //     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+      // },
       {
-        name: "XML",
+        name: "Vercel",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg",
       }
     ],
   },
@@ -164,7 +179,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://prutor.ai/wp-content/uploads/prutor-footer-logo-dark-blu.png",
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQE6plfIYM6j-A/company-logo_200_200/company-logo_200_200/0/1700824799741/prutor_ai_logo?e=1732752000&v=beta&t=kamzSRAEwlp-EpvSh6Jxe0RoILdIo_kNlhr29MXcdjs",
     role: "Full Stack Intern",
     company: "Robustresults Pvt ltd, IITK",
     date: "Oct 2021–Nov 2021",
@@ -180,7 +195,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://tse1.mm.bing.net/th?id=OIP.7X18dSfc5fS0P5vqDlvuTQAAAA&pid=Api&P=0&h=180",
+    img: "https://media.licdn.com/dms/image/v2/C4D0BAQFi4GG2XwFHqQ/company-logo_200_200/company-logo_200_200/0/1630487078763/internshala_logo?e=1732752000&v=beta&t=A2SOPlYMar8wu-eCzzybJo67Ij5d2SoE1N4d61Y15ns",
     role: "Web Development",
     company: "Internshala",
     date: "2022",
@@ -220,7 +235,6 @@ export const experiences = [
         github: "https://github.com/rasheeq123",
       },
     ],
-    // doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   }
 ];
 
@@ -230,8 +244,8 @@ export const education = [
     img: "https://tse1.explicit.bing.net/th?id=OIP.I2N7PDgOzS0DrHDJfYws5AAAAA&pid=Api&P=0&h=180",
     school: "Babu Banarasi Das Institute of Technology and Management, Lucknow",
     date: "Aug 2020 - July 2024",
-    grade: "8.34 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Babu Banarasi Das Institute of Technology and Management, Lucknow. I have completed 6 semesters and Curently I am Technical Head of Technovibes BBDITM and an was Web master of the IEEE Computer Society at IEEE BBDITM (2022).",
+    grade: "8.44/10 CGPA",
+    desc: "I have completed my Bachelor's degree in Computer Science and Engineering in 2024 from Babu Banarasi Das Institute of Technology and Management, Lucknow. My major coursework included Data Structures and Algorithm, Operating System, Computer Networks, Database Management System, Software Engineering, and Software Testing.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering."
   },
   {
