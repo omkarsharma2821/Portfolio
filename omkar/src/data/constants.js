@@ -357,7 +357,7 @@ export const projects = [
     description:
       "Number Spy is an interactive number guessing game where users try to guess a secret number between 1 and 100 within 10 attempts. The project showcases dynamic game mechanics and clean user interaction through a simple yet engaging interface.",
     image:
-      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/blob/main/screenshot/Screenshot%202024-09-21%20170327.png",
+      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202024-09-21%20170327.png",
     tags: ["Javascript", "HTML", "CSS"],
     category: "website",
     github: "https://github.com/omkarsharma2821/Javascript/tree/main/project/no.guessing",
