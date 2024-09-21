@@ -351,6 +351,19 @@ export const projects = [
     webapp: "https://github.com/omkarsharma2821/fullstack-movie-project",
   },
   {
+    id: 5,
+    title: "Number Spy",
+    // date: "June 2021",
+    description:
+      "Number Spy is an interactive number guessing game where users try to guess a secret number between 1 and 100 within 10 attempts. The project showcases dynamic game mechanics and clean user interaction through a simple yet engaging interface.",
+    image:
+      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202024-01-01%20120410.png",
+    tags: ["Javascript", "HTML", "CSS"],
+    category: "website",
+    github: "https://github.com/omkarsharma2821/Javascript/tree/main/project/no.guessing",
+    webapp: "https://numberspy.vercel.app/",
+  },
+  {
     id: 6,
     title: "Todo List",
     description:
