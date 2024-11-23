@@ -100,11 +100,11 @@ function Footer() {
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
+          {/* <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon> */}
           <SocialMediaIcon href={Bio.git} target="display"><GitHubIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Omkar Sharma. All rights reserved.
+          &copy; 2024 Omkar Sharma. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
