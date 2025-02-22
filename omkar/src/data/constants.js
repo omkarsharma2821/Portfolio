@@ -1,16 +1,16 @@
 export const Bio = {
   name: "Omkar Sharma",
   roles: [
-    "Software Developer",
-    "Problem Solver",
-    "MERN Stack Developer",
+    "Cloud Engineer",
+    "Grad. Engineer Trainee",
+    "DevOps Enthusiast",
     // "Full Stack Developer",
   ],
   description:
-    "Driven by a passion for learning and a commitment to excellence, I thrive in environments that present new challenges for growth. My adaptable skills and unwavering dedication, drive me to deliver high-quality results. I am confident that my adaptable skillset and growth mindset will enable me to achieve great things.",
+    // "Driven by a passion for learning and a commitment to excellence, I thrive in environments that present new challenges for growth. My adaptable skills and unwavering dedication, drive me to deliver high-quality results. I am confident that my adaptable skillset and growth mindset will enable me to achieve great things.",
+  "Passionate about cloud technologies, automation, and scalable infrastructure. Certified in Microsoft Azure Fundamentals (AZ-900) and GitHub Foundations, with hands-on experience in Azure, AWS, and GCP. Currently expanding my expertise in Linux, Windows, and DevOps tools to build efficient, secure, and reliable cloud solutions.",
   github: "https://github.com/omkarsharma2821",
-  resume:
-    "https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
   twitter: "https://twitter.com/omiipandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
@@ -160,14 +160,14 @@ export const experiences = [
     role: "Graduate Engineer Trainee",
     company: "HCLTech",
     date: "Nov 2024– Present",
-    // desc: "Cloud Service",
-    // skills: [
-    //   "HTML",
-    //   "Bootstrap",
-    //   "CSS",
-    //   "JavaScript",
-    //   "GitHub"
-    // ],
+    desc: "Cloud Engineer | Passionate about cloud & automation. AZ-900 & GitHub Foundations certified with experience in Azure, AWS, GCP, Linux, Windows & DevOps.",
+    skills: [
+      "Azure",
+      "AWS",
+      "GCP",
+      "Linux",
+      "Windows"
+    ],
     // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
   },
   {
