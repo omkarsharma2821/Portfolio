@@ -190,7 +190,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://media-exp1.licdn.com/dms/image/C510BAQHMTTTI3BTfcQ/company-logo_200_200/0/1577620723198?e=2159024400&v=beta&t=WcVvByuxRCRuGsZCbZ5nnDiOOhgC97rUiHke4Nxdfq8",
+    img: "https://avatars.githubusercontent.com/u/26999847?s=280&v=4",
     role: "MERN Stack Intern",
     company: "Digipodium – Lucknow",
     date: "Aug 2023 - Oct 2023",
@@ -213,7 +213,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D4D0BAQE6plfIYM6j-A/company-logo_200_200/company-logo_200_200/0/1700824799741/prutor_ai_logo?e=1732752000&v=beta&t=kamzSRAEwlp-EpvSh6Jxe0RoILdIo_kNlhr29MXcdjs",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzIBYqgbXSbU1K96WWHvPnfFKxowlQZuklg&s",
     role: "Full Stack Intern",
     company: "Robustresults Pvt ltd, IITK",
     date: "Oct 2021–Nov 2021",
@@ -229,7 +229,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/C4D0BAQFi4GG2XwFHqQ/company-logo_200_200/company-logo_200_200/0/1630487078763/internshala_logo?e=1732752000&v=beta&t=A2SOPlYMar8wu-eCzzybJo67Ij5d2SoE1N4d61Y15ns",
+    img: "https://internshala.com//static/images/internshala_og_image.jpg",
     role: "Web Development",
     company: "Internshala",
     date: "2022",
