@@ -306,7 +306,7 @@ export const projects = [
   {
     id: 9,
     title: "VintiMart",
-    date: "Nov 2023 - Dec 2023",
+    // date: "Nov 2023 - Dec 2023",
     description:
       "It is for furniture lovers seeking to add a touch of elegance to their homes without breaking the bank.It extends a helping hand to those seeking to furnish their homes with dignity and grace also empowers both the furniture donor and the recipient, fostering a spirit of community and shared purpose.",
     image:
@@ -328,7 +328,7 @@ export const projects = [
   {
     id: 0,
     title: "Green Doctor ",
-    date: "Present",
+    // date: "Present",
     description:
       "Web Based Solution to identify and solve disease in plants/crops–Smart India Hackathon 2023. Provides tailored treatment plans and proactive measures to combat plant disease. Designed for urban farmers, farmers and amateur gardener to protect their crops/plants and boost production.",
     image:
@@ -355,7 +355,7 @@ export const projects = [
   {
     id: 1,
     title: "PG Life",
-    date: "2022",
+    // date: "2022",
     description:
       "Designed and developed user friendly PG management website helpful in finding the nearest PG and Rooms for students. The plan is to add all the affordable rooms and flat to help students.",
     image:
@@ -374,7 +374,7 @@ export const projects = [
   {
     id: 5,
     title: "Movie Review",
-    date: "June 2021",
+    // date: "June 2021",
     description:
       "A simple website that shows the rating of the famous movies and allow viewers to rate the movies on basis of their likes and dislikes. The site also has a search bar to search for a particular movie.",
     image:
@@ -396,6 +396,18 @@ export const projects = [
     category: "website",
     github: "https://github.com/omkarsharma2821/Javascript/tree/main/project/no.guessing",
     webapp: "https://numberspy.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "SkyCast",
+    description:
+      "This is React App is build to test the EC2 instance. It is a weather app that shows the current weather of the city entered by the user. It uses OpenWeather API to fetch the data and show it to the user. The app is hosted on AWS EC2 instance.",
+    image:
+      "https://raw.githubusercontent.com/omkarsharma2821/Portfolio/main/screenshot/Screenshot%202024-01-01%20122050.png",
+    tags: ["AWS","EC2", "SSH", "React Js"],
+    category: "webpage",
+    github: "https://github.com/omkarsharma2821/Weather-App",
+    webapp: "https://weatherwale.netlify.app/",
   },
   {
     id: 6,
