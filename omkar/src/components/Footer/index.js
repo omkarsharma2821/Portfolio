@@ -5,6 +5,8 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import { Bio } from '../../data/constants';
+import { FaMedium, FaDev } from 'react-icons/fa';
+
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -100,11 +102,13 @@ function Footer() {
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          {/* <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon> */}
+          {/* <SocialMediaIcon href={Bio.x} target="_blank"><X /></SocialMediaIcon> */}
+          <SocialMediaIcon href={Bio.medium} target="_blank"><FaMedium /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.dev} target="_blank"><FaDev /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.git} target="display"><GitHubIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Omkar Sharma. All rights reserved.
+          &copy; 2025 Omkar Sharma. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

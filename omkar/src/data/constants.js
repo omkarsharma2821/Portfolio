@@ -12,9 +12,11 @@ export const Bio = {
   github: "https://github.com/omkarsharma2821",
   resume: "https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
-  twitter: "https://twitter.com/omiipandit",
+  x: "https://x.com/OmiiPandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
   git: "https://github.com/omkarsharma2821/",
+  medium: "https://medium.com/@omkarsharma2821",
+  dev: "https://dev.to/omkarsharma2821",
 };
 
 export const skills = [
