@@ -5,7 +5,7 @@ export const Bio = {
     "Meet Omkar Sharma — passionate about cloud technologies, automation, scalable infrastructure and web development. Certified in Microsoft Azure, AWS, GCP, and GitHub, with hands-on experience. Currently expanding his expertise in Linux, Windows, and DevOps tools to build efficient, secure, and reliable cloud solutions. ~chatgpt",
   github: "https://github.com/omkarsharma2821",
   resume:
-    "https://drive.google.com/file/d/1LmxqzxnL8fPr2QBZInyKf_a84It2Ctuc/view?usp=sharing",
+    "https://drive.google.com/file/d/1Vc_XSYTz_g_8hKpFFA7kmAxFBJ14kjgh/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
   x: "https://x.com/OmiiPandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
