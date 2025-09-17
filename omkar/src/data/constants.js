@@ -187,7 +187,7 @@ export const experiences = [
     role: "Cloud DevOps Engineer",
     company: "HCLTech",
     date: "Nov 2024– Present",
-    desc: "Responsible for creating secure and scalable landing zones on AWS and Azure for new clients. Identified gaps in existing cloud setups, fixed them and reduced costs by 40% using automation and manual configurations. • Designed and deployed robust network architectures, enhancing security posture and reducing potential attack. Worked closely with clients to understand their needs and suggest the best-fit cloud solutions.",
+    desc: "● Automated and developed Azure Logic Apps to deliver real-time security alerts and vulnerability reports from Microsoft Defender and Azure Monitor to subscription owners, improving incident visibility and reducing response time.● Designed cloud architecture and end-to-end environment setup for new accounts using draw.io and other design tools.● Developed patch baselines and policy configurations for both Linux and Windows machines.● Automated patching during maintenance windows.● Automated AWS immutable backups for critical resources, optimizing costs by removing resources as planned.● Automated detection and cleanup of unused and idle AWS resources (EBS, RDS, EKS, etc.) using CloudWatch and Lambda to optimize cloud costs resulting a 40%+ cost savings across multiple environments.● Developed secure and scalable landing zones on AWS and Azure for new clients.● Identified gaps in cloud setups and fixed them using automation and manual configs.● Designed and implemented end-to-end network architectures, including firewalls and WAFs. ● Led clients to understand their needs and suggest best-fit cloud solutions.",
     skills: ["Azure", "AWS", "GCP", "Linux", "Windows"],
     // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
   },
@@ -197,7 +197,7 @@ export const experiences = [
     role: "Content Strategist",
     company: "CipherSchools - Remote",
     date: "May 2025– Jul 2025",
-    desc: "• Created 12-hour video content on cloud for engineering students from top universities • Hosted webinars and Instagram Live sessions to share knowledge and take doubts • Helped students with projects and research work in Live batches",
+    desc: "• ● Designed and delivered 22+ hours of structured cloud computing content, empowering 50+ engineering students from top universities to gain hands-on expertise in Cloud and DevOps.● Hosted 15+ live sessions and webinars across platforms, simplifying complex concepts and increasing learner engagement and query resolution by 95%.● Mentored 70+ students on academic and industry projects, helping them complete projects successfully, contribute to research, and become career-ready.",
     skills: [
       "Teaching & Training",
       "Operations Management",
