@@ -1,8 +1,13 @@
 export const Bio = {
   name: "Omkar Sharma",
-  roles: ["Cloud DevOps Engineer", "Full Stack Developer"],
-  description:
-    "Meet Omkar Sharma — passionate about cloud technologies, automation, scalable infrastructure and web development. Certified in Microsoft Azure, AWS, GCP, and GitHub, with hands-on experience. Currently expanding his expertise in Linux, Windows, and DevOps tools to build efficient, secure, and reliable cloud solutions. ~chatgpt",
+  roles: ["Cloud DevOps Engineer", "Full Stack Developer", "Build", "Deploy", "Optimize"],
+  newroles: ["Build", "Deploy", "Optimize", "Automate"],
+ description: `How I Can Add Value to Your Business? 
+  ● Build modern, responsive websites from scratch.  
+  ● Deploy and manage applications end-to-end.  
+  ● Optimize cloud infrastructure for cost & performance.  
+  ● Develop custom AI agents for your business needs.
+  ● Turning your offline ideas into online success stories.`,
   github: "https://github.com/omkarsharma2821",
   resume:
     "https://drive.google.com/file/d/1VPLbowhpL4cqqJovvhSxKTVQCv457X2n/view?usp=sharing",
