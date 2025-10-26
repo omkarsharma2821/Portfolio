@@ -44,6 +44,7 @@ export const Desc = styled.div`
   font-size: 18px;
   text-align: center;
   max-width: 600px;
+  margin-bottom: 20px;
   color: ${({ theme }) => theme.text_secondary};
 
   @media (max-width: 768px) {

@@ -17,9 +17,7 @@ const Certificates = () => {
       <Wrapper>
         <Title>Certificates</Title>
         <Desc>
-          Here are some of the certifications I’ve earned throughout my journey,
-          demonstrating my dedication to continuous learning and professional
-          growth.
+          Credentials that demonstrate my professional growth.
         </Desc>
         <CardContainer>
           {toggle === 'all' &&

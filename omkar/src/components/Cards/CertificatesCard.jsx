@@ -76,12 +76,9 @@ const Button = styled.button`
   }
 `
 
-const CertificateCard = ({ certificate, setOpenModal }) => {
+const CertificateCard = ({ certificate }) => {
   return (
-    <Card
-      data-category={certificate.category} // ✅ store category for filtering
-      onClick={() => setOpenModal({ state: true, certificate })}
-    >
+    <Card data-category={certificate.category}>
       <Image src={certificate.image} alt={certificate.title} />
       <Title>{certificate.title}</Title>
       <Issuer>{certificate.issuer}</Issuer>
@@ -89,8 +86,7 @@ const CertificateCard = ({ certificate, setOpenModal }) => {
         <Description>{certificate.description}</Description>
       )}
       <Button
-        onClick={(e) => {
-          e.stopPropagation() // prevent modal opening
+        onClick={() => {
           window.open(certificate.link, '_blank')
         }}
       >
