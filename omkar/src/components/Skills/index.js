@@ -125,7 +125,7 @@ const Skills = () => {
       <Wrapper>
         <Title>Skills</Title>
         <Desc>
-          I have dedicated the past few years to actively honing my skills, Here are some of my skills.
+          Actively expanding my skills, both within my domain and beyond.
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (

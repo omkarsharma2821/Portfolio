@@ -56,6 +56,11 @@ export const skills = [
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
+      {
+        name: "Docker",
+        image:
+          "https://cdn-icons-png.flaticon.com/128/919/919853.png",
+      },
     ],
   },
   {
@@ -92,6 +97,10 @@ export const skills = [
       {
         name: "Node Js",
         image: "https://nodejs.org/static/images/logo.svg",
+      },
+      {
+        name: "Next Js",
+        image: "https://www.datocms-assets.com/98835/1684410508-image-7.png",
       },
       {
         name: "Express Js",
@@ -455,4 +464,35 @@ export const projects = [
     github: "https://github.com/omkarsharma2821/React/",
     webapp: "https://github.com/omkarsharma2821/React/",
   },
+];
+
+export const certificates = [
+  {
+    id: 0,
+    title: "Microsoft Certified: Azure Administrator Associate",
+    issuer: "Microsoft",
+    image: "https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main",
+    link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/6CFAEDE2349DA764?sharingId=ED5AC550E5F204F0",
+  },
+  {
+    id: 1,
+    title: "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+    issuer: "Microsoft",
+    image: "https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main",
+    link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/8F9A9FBA16C72CEC?sharingId=ED5AC550E5F204F0",
+  },
+  {
+    id: 2,
+    title: "Microsoft Certified: Azure Fundamentals",
+    issuer: "Microsoft",
+    image: "https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main",
+    link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/51ECBCCE4FE6FF43?sharingId=ED5AC550E5F204F0",
+  },
+  {
+    id: 3,
+    title: "GitHub Foundations by GitHub",
+    issuer: "GitHub",
+    image: "https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png",
+    link: "https://www.credly.com/badges/45a34fc4-9085-4abe-8c26-e92f7a2a3f5e/public_url",
+  }
 ];
