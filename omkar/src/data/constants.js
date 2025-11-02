@@ -494,5 +494,12 @@ export const certificates = [
     issuer: "GitHub",
     image: "https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png",
     link: "https://www.credly.com/badges/45a34fc4-9085-4abe-8c26-e92f7a2a3f5e/public_url",
+  },
+  {
+    id: 4,
+    title: "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
+    issuer: "Oracle",
+    image: "https://brm-workforce.oracle.com/pdf/certview/images/OCI25DSOCP.png",
+    link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=EB7EC19AEDA67B3BA4AE64F1B2D1AFFF9E16E92AD9C996D3D21E69EF54803214",
   }
 ];
