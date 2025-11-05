@@ -501,5 +501,12 @@ export const certificates = [
     issuer: "Oracle",
     image: "https://brm-workforce.oracle.com/pdf/certview/images/OCI25DSOCP.png",
     link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=EB7EC19AEDA67B3BA4AE64F1B2D1AFFF9E16E92AD9C996D3D21E69EF54803214",
+  },
+  {
+    id: 5,
+    title: "Microsoft Certified: DevOps Engineer Expert",
+    issuer: "Microsoft",
+    image: "https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main",
+    link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/A762B91143BAD0A1?sharingId=ED5AC550E5F204F0",
   }
 ];
