@@ -508,5 +508,12 @@ export const certificates = [
     issuer: "Microsoft",
     image: "https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main",
     link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/A762B91143BAD0A1?sharingId=ED5AC550E5F204F0",
+  },
+  {
+    id: 6,
+    title: "Microsoft Certified: Azure Solutions Architect Expert",
+    issuer: "Microsoft",
+    image: "https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main",
+    link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/B66430E6C7667285?sharingId=ED5AC550E5F204F0",
   }
 ];
