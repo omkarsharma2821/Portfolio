@@ -515,5 +515,12 @@ export const certificates = [
     issuer: "Microsoft",
     image: "https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main",
     link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/B66430E6C7667285?sharingId=ED5AC550E5F204F0",
+  },
+  {
+    id: 6,
+    title: "Associate Cloud Engineer Certification",
+    issuer: "Google Cloud",
+    image: "https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png",
+    link: "https://www.credly.com/badges/8159ed6b-643f-40a1-ae35-ffd81124fa83/public_url",
   }
 ];
