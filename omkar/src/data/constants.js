@@ -1,16 +1,16 @@
 export const Bio = {
   name: "Omkar Sharma",
-  roles: ["Cloud DevOps Engineer", "Full Stack Developer", "Build", "Deploy", "Optimize"],
+  roles: ["Cloud DevOps Engineer", "Career Mentor","Full Stack Developer", "Corporate Trainer"],
   newroles: ["Build", "Deploy", "Optimize", "Automate"],
- description: `How I Can Add Value to Your Business? 
+ description: `How I Can Add Value to Your Career and Business? 
+  ● 4 years in Career guidance, planning, & mentoring.
   ● Build modern, responsive websites from scratch.  
   ● Deploy and manage applications end-to-end.  
   ● Optimize cloud infrastructure for cost & performance.  
-  ● Develop custom AI agents for your business needs.
-  ● Turning your offline ideas into online success stories.`,
+  ● Develop custom AI agents and Automation Tools.`,
   github: "https://github.com/omkarsharma2821",
   resume:
-    "https://drive.google.com/file/d/1VPLbowhpL4cqqJovvhSxKTVQCv457X2n/view?usp=sharing",
+    "https://drive.google.com/file/d/1-GGOlmXOyRFl49IR_TZVYSvCPk_1XYpa/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
   x: "https://x.com/OmiiPandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
@@ -158,17 +158,17 @@ export const skills = [
       {
         name: "Canva",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg",
+          "https://images.icon-icons.com/3504/PNG/96/canva_icon_220714.png",
       },
       {
         name: "Advance Excel",
         image:
-          "https://img.shields.io/badge/-grey?&logo=microsoftexcel&logoColor",
+          "https://images.icon-icons.com/195/PNG/96/Excel_2013_23480.png",
       },
       {
         name: "Microsoft Word",
         image:
-          "https://img.shields.io/badge/-grey?&logo=microsoftword&logoColor",
+          "https://images.icon-icons.com/2570/PNG/96/word_mac_icon_153770.png",
       },
       {
         name: "Render",
@@ -178,7 +178,7 @@ export const skills = [
       {
         name: "Netlify",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://images.icon-icons.com/2699/PNG/96/netlify_logo_icon_169924.png",
       },
       {
         name: "Vercel",
@@ -190,6 +190,11 @@ export const skills = [
         image:
           "https://img.shields.io/badge/-black?&logo=mendeley&logoColor=white",
       },
+      {
+        name: "Power BI",
+        image:
+          "https://images.icon-icons.com/3660/PNG/96/data_office_power_bi_logo_microsoft_icon_228487.png",
+      }
     ],
   },
 ];

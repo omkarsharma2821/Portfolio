@@ -28,14 +28,14 @@ const HeroSection = () => {
     const switchPhase = () => {
       if (phase === 1) {
         setPhase(2);
-        timer = setTimeout(switchPhase, 13000); // Phase 2 duration = 10s
+        timer = setTimeout(switchPhase, 23000); // Phase 2 duration = 23s
       } else {
         setPhase(1);
-        timer = setTimeout(switchPhase, 13000); // Phase 1 duration = 13s
+        timer = setTimeout(switchPhase, 23000); // Phase 1 duration = 23s
       }
     };
 
-    timer = setTimeout(switchPhase, 13000); // initial Phase 1 duration
+    timer = setTimeout(switchPhase, 23000); // initial Phase 1 duration
     return () => clearTimeout(timer);
   }, [phase]);
 
