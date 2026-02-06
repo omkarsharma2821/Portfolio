@@ -61,6 +61,11 @@ export const skills = [
         image:
           "https://cdn-icons-png.flaticon.com/128/919/919853.png",
       },
+      {
+        name: "PowerShell",
+        image:
+          "https://images.icon-icons.com/2148/PNG/96/powershell_icon_132080.png",
+      },
     ],
   },
   {
