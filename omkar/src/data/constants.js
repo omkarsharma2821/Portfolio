@@ -492,6 +492,13 @@ export const certificates = [
     link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/A762B91143BAD0A1?sharingId=ED5AC550E5F204F0",
   },
   {
+    id: 1,
+    title: "Microsoft Certified: Azure AI Engineer Associate",
+    issuer: "Microsoft",
+    image: "https://images.credly.com/size/680x680/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png",
+    link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/A04985B245717D15?sharingId=ED5AC550E5F204F0",
+  },
+  {
     id: 2,
     title: "Microsoft Certified: Azure Administrator Associate",
     issuer: "Microsoft",
