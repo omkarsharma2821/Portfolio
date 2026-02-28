@@ -3,7 +3,7 @@ export const Bio = {
   roles: ["Cloud DevOps Engineer", "Career Mentor","Full Stack Developer", "Corporate Trainer"],
   newroles: ["Build", "Deploy", "Optimize", "Automate"],
  description: `How I Can Add Value to Your Career and Business? 
-  ● 4 years in Career guidance, planning, & mentoring.
+  ● 3 years in Career guidance, planning, & mentoring.
   ● Build modern, responsive websites from scratch.  
   ● Deploy and manage applications end-to-end.  
   ● Optimize cloud infrastructure for cost & performance.  
@@ -42,6 +42,10 @@ export const skills = [
       {
         name: "Github Actions",
         image: "https://tinyurl.com/yeyskras",
+      },
+      {
+        name: "Jenkins",
+        image: "https://images.icon-icons.com/2699/PNG/256/jenkins_logo_icon_170552.png",
       },
       {
         name: "Windows",
@@ -207,32 +211,37 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://shorturl.at/rPBaC",
+    img: "https://tinyurl.com/3be2s5u7",
     role: "Cloud DevOps Engineer",
     company: "HCLTech",
     date: "Nov 2024– Present",
     desc: "● Automated and developed Azure Logic Apps to deliver real-time security alerts and vulnerability reports from Microsoft Defender and Azure Monitor to subscription owners, improving incident visibility and reducing response time.● Designed cloud architecture and end-to-end environment setup for new accounts using draw.io and other design tools.● Developed patch baselines and policy configurations for both Linux and Windows machines.● Automated patching during maintenance windows.● Automated AWS immutable backups for critical resources, optimizing costs by removing resources as planned.● Automated detection and cleanup of unused and idle AWS resources (EBS, RDS, EKS, etc.) using CloudWatch and Lambda to optimize cloud costs resulting a 40%+ cost savings across multiple environments.● Developed secure and scalable landing zones on AWS and Azure for new clients.● Identified gaps in cloud setups and fixed them using automation and manual configs.● Designed and implemented end-to-end network architectures, including firewalls and WAFs. ● Led clients to understand their needs and suggest best-fit cloud solutions.",
-    skills: ["Azure", "AWS", "GCP", "Linux", "Windows"],
+    skills: ["Azure", "AWS", "Linux", "Cloud Automation", "Cloud Architecture", "Cost Optimization", "Security & Compliance", "Landings Zones", "Network Architecture"],
     // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
   },
   {
     id: 1,
-    img: "https://shorturl.at/NWkIR",
-    role: "Content Strategist",
-    company: "CipherSchools - Remote",
+    img: "https://tinyurl.com/ak4xutnw",
+    role: "Cloud & DevOps Trainer",
+    company: "HYPERTECHGLOBALTECHNOLOGIES PVT LTD - Remote",
     date: "May 2025– Jul 2025",
-    desc: "• ● Designed and delivered 22+ hours of structured cloud computing content, empowering 50+ engineering students from top universities to gain hands-on expertise in Cloud and DevOps.● Hosted 15+ live sessions and webinars across platforms, simplifying complex concepts and increasing learner engagement and query resolution by 95%.● Mentored 70+ students on academic and industry projects, helping them complete projects successfully, contribute to research, and become career-ready.",
-    skills: [
-      "Teaching & Training",
-      "Operations Management",
-      "Presentation",
-      "Content Creation",
-      "Video Production",
-    ],
+    desc: "● Mentoring working professionals from support, operations, and non-technical backgrounds to upskill and successfully transition into DevOps roles.",
+    skills: ["Docker","Jenkins","Kubernetes","Terraform","DevOps", "Linux","Cloud Computing", "CI/CD"],
     // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
   },
   {
     id: 2,
+    img: "https://tinyurl.com/5yvrfuet",
+    role: "Content Strategist",
+    company: "CipherSchools - Remote",
+    date: "May 2025– Jul 2025",
+    desc: "● Designed and delivered 22+ hours of structured cloud computing content, empowering 50+ engineering students from top universities to gain hands-on expertise in Cloud and DevOps.● Hosted 15+ live sessions and webinars across platforms, simplifying complex concepts and increasing learner engagement and query resolution by 95%.● Mentored 70+ students on academic and industry projects, helping them complete projects successfully, contribute to research, and become career-ready.",
+    skills: [
+      "Teaching & Training","Cloud & DevOps","Content Creation","Live sessions","Mentoring","Project Guidance"],
+    // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
+  },
+  {
+    id: 3,
     img: "https://shorturl.at/CbvnK",
     role: "Technical Trainer",
     company: "LogicPro InfoSystems – Lucknow",
@@ -250,8 +259,8 @@ export const experiences = [
     // doc:""
   },
   {
-    id: 0,
-    img: "https://avatars.githubusercontent.com/u/26999847?s=280&v=4",
+    id: 4,
+    img: "https://tinyurl.com/yyadk245",
     role: "MERN Stack Intern",
     company: "Digipodium – Lucknow",
     date: "Aug 2023 - Oct 2023",
@@ -273,7 +282,7 @@ export const experiences = [
     // doc:""
   },
   {
-    id: 0,
+    id: 5,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzIBYqgbXSbU1K96WWHvPnfFKxowlQZuklg&s",
     role: "Full Stack Intern",
     company: "Robustresults Pvt ltd, IITK",
@@ -283,7 +292,7 @@ export const experiences = [
     // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
   },
   {
-    id: 1,
+    id: 6,
     img: "https://internshala.com//static/images/internshala_og_image.jpg",
     role: "Web Development",
     company: "Internshala",
@@ -293,7 +302,7 @@ export const experiences = [
     // doc: "https://drive.google.com/file/d/1iius6V9HRWfHU6lNNbxnc6b23vRrA_rb/view?usp=sharing",
   },
   {
-    id: 2,
+    id: 7,
     img: "https://tse1.explicit.bing.net/th?id=OIP.I2N7PDgOzS0DrHDJfYws5AAAAA&pid=Api&P=0&h=180",
     role: "Research",
     company: "ICAETC 2023",
