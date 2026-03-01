@@ -224,7 +224,7 @@ export const experiences = [
     img: "https://tinyurl.com/ak4xutnw",
     role: "Cloud & DevOps Trainer",
     company: "HYPERTECHGLOBALTECHNOLOGIES PVT LTD - Remote",
-    date: "May 2025– Jul 2025",
+    date: "Nov 2026– Present",
     desc: "● Mentoring working professionals from support, operations, and non-technical backgrounds to upskill and successfully transition into DevOps roles.",
     skills: ["Docker","Jenkins","Kubernetes","Terraform","DevOps", "Linux","Cloud Computing", "CI/CD"],
     // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
@@ -248,14 +248,7 @@ export const experiences = [
     date: "Aug 2024 - Oct 2024",
     desc: "Responsible for preparing, conducting, and evaluating technical training on latest technologies for Students and Working Professionals. Analyze learning needs and develop appropriate training material. Interact with respective departments in scheduling training programs.",
     skills: [
-      "O'Level",
-      "Web Designing",
-      "IOT Tools",
-      "Python",
-      "DSA",
-      "C",
-      "C++",
-    ],
+      "O'Level","Web Designing","IOT Tools","Python","DSA","C","C++",],
     // doc:""
   },
   {
@@ -282,16 +275,6 @@ export const experiences = [
     // doc:""
   },
   {
-    id: 5,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzIBYqgbXSbU1K96WWHvPnfFKxowlQZuklg&s",
-    role: "Full Stack Intern",
-    company: "Robustresults Pvt ltd, IITK",
-    date: "Oct 2021–Nov 2021",
-    desc: "Leveraged my full-stack developer skills in HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL during a 6-week internship at Robustresults Pvt. Ltd., an IITK incubated company.",
-    skills: ["HTML", "Bootstrap", "CSS", "JavaScript", "GitHub"],
-    // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
-  },
-  {
     id: 6,
     img: "https://internshala.com//static/images/internshala_og_image.jpg",
     role: "Web Development",
@@ -302,27 +285,14 @@ export const experiences = [
     // doc: "https://drive.google.com/file/d/1iius6V9HRWfHU6lNNbxnc6b23vRrA_rb/view?usp=sharing",
   },
   {
-    id: 7,
-    img: "https://tse1.explicit.bing.net/th?id=OIP.I2N7PDgOzS0DrHDJfYws5AAAAA&pid=Api&P=0&h=180",
-    role: "Research",
-    company: "ICAETC 2023",
-    date: "Present",
-    desc: "MobileNet-v3 : A Comprehensive Survey of Object Detection Algorithms Using CNN. International Conference on Advances in Emerging Trends in Computer Applications (ICAETC-2023). For my Major Project I with my teammate wrote this Review Paper and used it's result in the detection identification of disease in Plants/Crops(Final Year Project).",
-    skills: ["Mendeley", "Google Scholar", "Turnitin", "Referencing Softwares"],
-    member: [
-      {
-        name: "Omkar Sharma",
-        img: "https://avatars.githubusercontent.com/u/104587783?s=96&v=4",
-        linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
-        github: "https://github.com/omkarsharma2821/",
-      },
-      {
-        name: "Rasheeq Zehra",
-        img: "https://avatars.githubusercontent.com/u/108568853?v=4",
-        linkedin: "https://www.linkedin.com/in/rasheeq-zehra-mern-developer/",
-        github: "https://github.com/rasheeq123",
-      },
-    ],
+    id: 5,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzIBYqgbXSbU1K96WWHvPnfFKxowlQZuklg&s",
+    role: "Full Stack Intern",
+    company: "Robustresults Pvt ltd, IITK",
+    date: "Oct 2021–Nov 2021",
+    desc: "Leveraged my full-stack developer skills in HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL during a 6-week internship at Robustresults Pvt. Ltd., an IITK incubated company.",
+    skills: ["HTML", "Bootstrap", "CSS", "JavaScript", "GitHub"],
+    // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
   },
 ];
 
