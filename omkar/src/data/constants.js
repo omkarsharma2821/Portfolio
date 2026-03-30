@@ -29,7 +29,7 @@ export const skills = [
       },
       {
         name: "AWS",
-        image: "https://shorturl.at/68epi",
+        image: "https://images.icon-icons.com/2389/PNG/512/amazon_aws_logo_icon_145507.png",
       },
       {
         name: "GCP",
@@ -97,12 +97,12 @@ export const skills = [
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://images.icon-icons.com/2107/PNG/512/file_type_css_icon_130661.png",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://images.icon-icons.com/2108/PNG/512/javascript_icon_130900.png",
       },
       {
         name: "Bootstrap",
@@ -111,7 +111,7 @@ export const skills = [
       },
       {
         name: "Material UI",
-        image: "https://tinyurl.com/4upnr4km",
+        image: "https://images.icon-icons.com/3913/PNG/512/mui_logo_icon_248416.png",
       },
       {
         name: "Node Js",
@@ -152,7 +152,7 @@ export const skills = [
       {
         name: "Javascript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://images.icon-icons.com/2108/PNG/512/javascript_icon_130900.png",
       },
       {
         name: "JSON",
@@ -167,7 +167,7 @@ export const skills = [
       {
         name: "VS Code",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://images.icon-icons.com/2107/PNG/512/file_type_vscode_icon_130084.png",
       },
       {
         name: "Postman",
@@ -231,7 +231,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://tinyurl.com/ak4xutnw",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQFu4sk6KZlRGA/company-logo_200_200/B56ZndKG8qG0AI-/0/1760352039369/hypertechglobaltechnologies_pvt_ltd_logo?e=1776297600&v=beta&t=j4vZ1w3VE9-mcpZ9LjE2EdHuL3K8OuNixcLnCe3QHDo",
     role: "Cloud & DevOps Trainer",
     company: "HYPERTECHGLOBALTECHNOLOGIES PVT LTD - Remote",
     date: "Nov 2026– Present",
@@ -241,7 +241,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://tinyurl.com/5yvrfuet",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHTItv8wJEm3w/company-logo_200_200/company-logo_200_200/0/1732884498456/cipherschool_logo?e=1776297600&v=beta&t=Lt1IadkKxBiOa_lBGmece7e4r38rfrEEoVrwp4SmTRU",
     role: "Content Strategist",
     company: "CipherSchools - Remote",
     date: "May 2025– Jul 2025",
@@ -263,7 +263,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://tinyurl.com/yyadk245",
+    img: "https://media.licdn.com/dms/image/v2/C510BAQHMTTTI3BTfcQ/company-logo_200_200/company-logo_200_200/0/1630586600589/digipodium_logo?e=1776297600&v=beta&t=hFlSrbIkv4bRhGMDFI1lj1XDQm11mItB3I1C8d8b4S0",
     role: "MERN Stack Intern",
     company: "Digipodium – Lucknow",
     date: "Aug 2023 - Oct 2023",
