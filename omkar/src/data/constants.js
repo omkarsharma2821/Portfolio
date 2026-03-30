@@ -10,7 +10,7 @@ export const Bio = {
   ● Develop custom AI agents and Automation Tools.`,
   github: "https://github.com/omkarsharma2821",
   resume:
-    "https://drive.google.com/file/d/1-GGOlmXOyRFl49IR_TZVYSvCPk_1XYpa/view?usp=sharing",
+    "https://drive.google.com/file/d/1egIetC79I8vVSCuKqrEKtgZZ08igMyuk/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
   x: "https://x.com/OmiiPandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
@@ -66,9 +66,19 @@ export const skills = [
           "https://cdn-icons-png.flaticon.com/128/919/919853.png",
       },
       {
+        name: "Terraform",
+        image:
+          "https://images.icon-icons.com/2107/PNG/512/file_type_terraform_icon_130125.png",
+      },
+      {
         name: "PowerShell",
         image:
           "https://images.icon-icons.com/2148/PNG/96/powershell_icon_132080.png",
+      },
+      {
+        name: "Kubernetes",
+        image:
+          "https://images.icon-icons.com/2699/PNG/512/kubernetes_logo_icon_168359.png",
       },
     ],
   },
