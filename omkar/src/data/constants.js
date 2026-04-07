@@ -80,6 +80,16 @@ export const skills = [
         image:
           "https://images.icon-icons.com/2699/PNG/512/kubernetes_logo_icon_168359.png",
       },
+      {
+        name: "Sonarqube",
+        image:
+          "https://images.icon-icons.com/3915/PNG/512/sonarqube_logo_icon_249575.png",
+      },
+      {
+        name: "Maven",
+        image:
+          "https://images.icon-icons.com/2107/PNG/512/file_type_maven_icon_130397.png",
+      },
     ],
   },
   {
