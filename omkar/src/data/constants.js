@@ -246,7 +246,7 @@ export const experiences = [
     company: "HYPERTECHGLOBALTECHNOLOGIES PVT LTD - Remote",
     date: "Nov 2026– Present",
     desc: "● Mentoring working professionals from support, operations, and non-technical backgrounds to upskill and successfully transition into DevOps roles.",
-    skills: ["Docker","Jenkins","Kubernetes","Terraform","DevOps", "Linux","Cloud Computing", "CI/CD"],
+    skills: ["Docker","Jenkins","Kubernetes","Terraform","DevOps","Linux","Cloud Computing", "CI/CD","Sonarqube","Maven"],
     // doc: "https://drive.google.com/file/d/19dHIaj-lnkeigz6p0hcQklnjPuOT2ts8/view?usp=sharing",
   },
   {
