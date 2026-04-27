@@ -527,13 +527,20 @@ export const certificates = [
   },
   {
     id: 6,
+    title: "GitHub Actions by GitHub",
+    issuer: "GitHub",
+    image: "https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png",
+    link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/1D19002002007BA0?sharingId=ED5AC550E5F204F0",
+  },
+  {
+    id: 7,
     title: "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
     issuer: "Microsoft",
     image: "https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png",
     link: "https://learn.microsoft.com/api/credentials/share/en-gb/OmkarSharma-1199/8F9A9FBA16C72CEC?sharingId=ED5AC550E5F204F0",
   },
   {
-    id: 7,
+    id: 8,
     title: "Microsoft Certified: Azure Fundamentals",
     issuer: "Microsoft",
     image: "https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
