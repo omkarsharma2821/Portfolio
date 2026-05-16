@@ -90,7 +90,7 @@ const HeroSection = () => {
             </SubTitle>
 
             <ResumeButton href={Bio.resume} target="_blank">
-              Check Resume
+              Let's Connect
             </ResumeButton>
           </HeroLeftContainer>
 

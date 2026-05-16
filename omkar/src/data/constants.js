@@ -10,7 +10,7 @@ export const Bio = {
   ● Develop custom AI agents and Automation Tools.`,
   github: "https://github.com/omkarsharma2821",
   resume:
-    "https://drive.google.com/file/d/1egIetC79I8vVSCuKqrEKtgZZ08igMyuk/view?usp=sharing",
+    "https://www.linkedin.com/in/omkarsharmaa/",
   linkedin: "https://www.linkedin.com/in/omkarsharmaa/",
   x: "https://x.com/OmiiPandit",
   insta: "https://www.instagram.com/omkarsharmaa_/",
