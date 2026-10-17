@@ -1,13 +1,10 @@
 export const Bio = {
   name: "Omkar Sharma",
-  roles: ["Cloud DevOps Engineer", "Career Mentor","Full Stack Developer", "Corporate Trainer"],
-  newroles: ["Build", "Deploy", "Optimize", "Automate"],
- description: `How I Can Add Value to Your Career and Business? 
-  ● 3 years in Career guidance, planning, & mentoring.
-  ● Build modern, responsive websites from scratch.  
-  ● Deploy and manage applications end-to-end.  
-  ● Optimize cloud infrastructure for cost & performance.  
-  ● Develop custom AI agents and Automation Tools.`,
+  roles: ["Cloud DevOps Engineer", "Corporate Trainer","Full Stack Developer", "Career Mentor"],
+  newroles: ["Build", "Automate", "Deploy", "Optimize"],
+ description: `● Empowering professionals worldwide to embrace AI, build cloud and DevOps skills, and stay industry-ready across IT, BPO, GCC, and BFSI sectors.
+  ● 5 years of professional training experience, with 4,500+ professionals & Freshers trained.
+  ● Deploy Secure Landing Zones, optimize cloud infrastructure, and develop AI automation tools.`,
   github: "https://github.com/omkarsharma2821",
   resume:
     "https://www.linkedin.com/in/omkarsharmaa/",
